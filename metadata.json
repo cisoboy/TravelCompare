@@ -1,0 +1,6 @@
+{
+  "name": "Ride Compare",
+  "description": "Compare real-time prices, ETA, and ride tiers between Bolt and Uber with Google Places search and device position GPS selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
